@@ -32,3 +32,5 @@ students.delete_one({"Name": "Merry"})
 students_1 = students.find()
 print(list(students_1))
 
+
+
